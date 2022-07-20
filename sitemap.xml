@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/index.html</loc>
+    <loc>http://example.com/repository/index.html</loc>
     
     <lastmod>2022-07-05</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/repository/index.html</loc>
+    <loc>http://example.com/tags/index.html</loc>
     
     <lastmod>2022-07-05</lastmod>
     
@@ -263,13 +263,6 @@
 
   
   <url>
-    <loc>http://example.com/tags/docker/</loc>
-    <lastmod>2022-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/SpringCloud/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -278,6 +271,13 @@
   
   <url>
     <loc>http://example.com/tags/nacos/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/docker/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -368,20 +368,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/mac/</loc>
-    <lastmod>2022-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/openjdk/</loc>
-    <lastmod>2022-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -390,6 +376,20 @@
   
   <url>
     <loc>http://example.com/tags/iTerm2/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/mac/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/openjdk/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -417,6 +417,13 @@
   </url>
   
   <url>
+    <loc>http://example.com/tags/%E7%BC%93%E5%AD%98/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -430,24 +437,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>http://example.com/tags/%E7%BC%93%E5%AD%98/</loc>
-    <lastmod>2022-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>http://example.com/categories/docker/</loc>
+    <loc>http://example.com/categories/SpringCloud/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/SpringCloud/</loc>
+    <loc>http://example.com/categories/docker/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -517,14 +517,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/mac/</loc>
+    <loc>http://example.com/categories/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/</loc>
+    <loc>http://example.com/categories/mac/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -552,13 +552,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6/</loc>
-    <lastmod>2022-07-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/categories/%E7%BC%93%E5%AD%98/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -566,7 +559,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/mac/openjdk/</loc>
+    <loc>http://example.com/categories/%E6%B5%81%E9%87%8F%E6%8E%A7%E5%88%B6/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -580,7 +573,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/idea/</loc>
+    <loc>http://example.com/categories/mac/openjdk/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -588,6 +581,13 @@
   
   <url>
     <loc>http://example.com/categories/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/idea/</loc>
     <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
