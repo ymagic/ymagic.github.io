@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://ymagic.github.io/categories/index.html</loc>
+    <loc>https://ymagic.github.io/repository/index.html</loc>
     
     <lastmod>2022-07-05</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://ymagic.github.io/repository/index.html</loc>
+    <loc>https://ymagic.github.io/categories/index.html</loc>
     
     <lastmod>2022-07-05</lastmod>
     
@@ -263,20 +263,6 @@
 
   
   <url>
-    <loc>https://ymagic.github.io/tags/Ubuntu/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ymagic.github.io/tags/docker/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ymagic.github.io/tags/SpringCloud/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -291,6 +277,13 @@
   </url>
   
   <url>
+    <loc>https://ymagic.github.io/tags/docker/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ymagic.github.io/tags/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -299,6 +292,13 @@
   
   <url>
     <loc>https://ymagic.github.io/tags/%E9%95%9C%E5%83%8F/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ymagic.github.io/tags/Ubuntu/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -333,6 +333,13 @@
   </url>
   
   <url>
+    <loc>https://ymagic.github.io/tags/sql%E4%BC%98%E5%8C%96/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://ymagic.github.io/tags/SpringBoot/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -341,13 +348,6 @@
   
   <url>
     <loc>https://ymagic.github.io/tags/Quartz/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://ymagic.github.io/tags/sql%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -440,13 +440,6 @@
 
   
   <url>
-    <loc>https://ymagic.github.io/categories/docker/</loc>
-    <lastmod>2022-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ymagic.github.io/categories/SpringCloud/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -454,7 +447,7 @@
   </url>
   
   <url>
-    <loc>https://ymagic.github.io/categories/docker/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://ymagic.github.io/categories/docker/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -482,14 +475,21 @@
   </url>
   
   <url>
-    <loc>https://ymagic.github.io/categories/SpringBoot/</loc>
+    <loc>https://ymagic.github.io/categories/sql%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ymagic.github.io/categories/sql%E4%BC%98%E5%8C%96/</loc>
+    <loc>https://ymagic.github.io/categories/docker/%E7%AC%94%E8%AE%B0/</loc>
+    <lastmod>2022-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ymagic.github.io/categories/SpringBoot/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -580,14 +580,14 @@
   </url>
   
   <url>
-    <loc>https://ymagic.github.io/categories/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/idea/</loc>
+    <loc>https://ymagic.github.io/categories/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://ymagic.github.io/categories/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/%E6%B5%8F%E8%A7%88%E5%99%A8/</loc>
+    <loc>https://ymagic.github.io/categories/mac%E5%BF%AB%E6%8D%B7%E9%94%AE/idea/</loc>
     <lastmod>2022-08-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
